@@ -1,0 +1,7 @@
+//file: interfaces.acf
+[
+    implicit_handle (handle_t hello_IfHandle)
+] 
+interface interfaces
+{
+}
