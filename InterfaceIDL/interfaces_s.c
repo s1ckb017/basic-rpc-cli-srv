@@ -136,7 +136,7 @@ static const RPC_SERVER_INTERFACE interfaces___RpcServerInterface =
     0,
     0,
     &interfaces_ServerInfo,
-    0x04000000
+    0x04000001
     };
 RPC_IF_HANDLE interfaces_v1_0_s_ifspec = (RPC_IF_HANDLE)& interfaces___RpcServerInterface;
 
